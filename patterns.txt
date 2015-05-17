@@ -1,0 +1,8 @@
+{titles}'s {locations}
+{locations} of the {titles}
+{adjectives} {locations}
+{locations} of {nouns}
+{adjectives} {locations} of {nouns}
+{adjectives} {locations} of the {titles}
+{locations} of {adjectives} {nouns}
+{locations} of the {adjectives} {titles}
