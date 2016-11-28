@@ -1,0 +1,52 @@
+Baboons
+Badgers
+Bats
+Bears
+Bison
+Boars
+Bulls
+Camels
+Cats
+Cheetahs
+Crabs
+Crocodiles
+Dogs
+Eagles
+Elephants
+Gorillas
+Hawks
+Horses
+Hyenas
+Leopards
+Lions
+Lizards
+Monkeys
+Mules
+Octopi
+Owls
+Ponies
+Rats
+Ravens
+Rhinos
+Snakes
+Squids
+Tigers
+Toads
+Weasels
+Wolves
+Wolverines
+Giant Ants
+Giant Bees
+Giant Praying Mantises
+Giant Wasps
+Giant Centipedes
+Giant Scorpions
+Giant Spiders
+Elves
+Dwarves
+Humans
+Dragons
+Raptors
+Wandering Plants
+Fungi
+Vines

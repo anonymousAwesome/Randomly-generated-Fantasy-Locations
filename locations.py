@@ -3,7 +3,7 @@ from random import seed, choice, randint
 seed()
 
 dictionary = {}
-list_of_sources=["locations","titles","adjectives","nouns"]
+list_of_sources=["environmental_locations","titles","adjectives","nouns", "purposeful_locations", "mon_adjectives", "creatures"]
 for source in list_of_sources:
     with open ("{}.txt".format(source)) as f:
         dictionary[source] = f.readlines()

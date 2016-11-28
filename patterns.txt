@@ -1,8 +1,18 @@
-{titles}'s {locations}
-{locations} of the {titles}
-{adjectives} {locations}
-{locations} of {nouns}
-{adjectives} {locations} of {nouns}
-{adjectives} {locations} of the {titles}
-{locations} of {adjectives} {nouns}
-{locations} of the {adjectives} {titles}
+{titles}'s {purposeful_locations}
+{purposeful_locations} of the {titles}
+{adjectives} {purposeful_locations}
+{purposeful_locations} of {nouns}
+{adjectives} {purposeful_locations} of {nouns}
+{adjectives} {purposeful_locations} of the {titles}
+{purposeful_locations} of {adjectives} {nouns}
+{purposeful_locations} of the {adjectives} {titles}
+{titles}'s {environmental_locations}
+{environmental_locations} of the {titles}
+{adjectives} {environmental_locations}
+{environmental_locations} of {nouns}
+{adjectives} {environmental_locations} of {nouns}
+{adjectives} {environmental_locations} of the {titles}
+{environmental_locations} of {adjectives} {nouns}
+{environmental_locations} of the {adjectives} {titles}
+{environmental_locations} of the {mon_adjectives} {creatures}
+{environmental_locations} of the {mon_adjectives} {titles}

@@ -5,7 +5,6 @@ Philosopher
 Prisoner
 Wizard
 Demon
-Mage
 Druid
 Thief
 Lich
@@ -13,7 +12,6 @@ Witch
 Sorceror
 Sorceress
 Traitor
-Heir
 Seer
 Alchemist
 Warrior
